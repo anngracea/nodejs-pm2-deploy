@@ -2,3 +2,5 @@
 node_modules
 *.log
 build
+.env.deploy
+backend/.env
